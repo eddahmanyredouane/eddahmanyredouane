@@ -12,7 +12,7 @@ As a Full-Stack Developer holding a Master's degree in Computer Science Engineer
 ### 💻 Core Technical Skills
 
 <p align="center">
-  [cite_start]<em>Here are the key technologies from my resume:</em>
+  <em>Here are the key technologies from my resume:</em>
   <br><br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,spring,hibernate,kotlin,js,ts,angular,react,html,css&perline=5" />
